@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/chasinglogic/terraform-provider-configsource/internal/client"
+	"github.com/config-source/terraform-provider-cdb/internal/client"
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/datasource/schema"
 	"github.com/hashicorp/terraform-plugin-framework/types"

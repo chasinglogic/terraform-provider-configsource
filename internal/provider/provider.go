@@ -3,7 +3,7 @@ package provider
 import (
 	"context"
 
-	"github.com/chasinglogic/terraform-provider-configsource/internal/client"
+	"github.com/config-source/terraform-provider-cdb/internal/client"
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/provider"
 	"github.com/hashicorp/terraform-plugin-framework/provider/schema"

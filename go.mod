@@ -1,4 +1,4 @@
-module github.com/chasinglogic/terraform-provider-configsource
+module github.com/config-source/terraform-provider-cdb
 
 go 1.19
 
